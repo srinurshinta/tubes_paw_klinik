@@ -1,0 +1,117 @@
+.atas {
+	background-color: #1abc9c;
+	padding: 3% 0 3% 0;
+	margin-top: 1%;
+}
+
+.text-atas h2{
+	color: #fff;
+
+}
+
+.text-atas p{
+	color: #fff;
+	text-align: justify;
+}
+
+.about p {
+	text-align: justify;
+
+}
+
+.judul h1 {
+	margin: 3% 0;
+	color: #1abc9c;
+}
+
+/*registrasi online*/
+.regon {
+	background-color: #F8BBD0;
+	padding: 3% 0 3% 0;
+	margin-top: 1%;
+}
+
+
+
+.reg p {
+	text-align: justify;
+
+}
+
+/*login*/
+#utama{
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 12%;
+	
+}
+
+#judul{
+	padding: 15px;
+	text-align: center;
+	color: #fff;
+	font-size: 25px;
+	background-color: #69d2e7;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-bottom: 5px solid #0AA;
+}
+
+#inputan{
+	background-color: #e0e4cc;
+	padding: 20px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+
+}
+
+input{
+	padding: 10px;
+	border: 0;
+
+}
+
+.lg{
+	width: 240px;
+	cursor: pointer;
+}
+
+.btn{
+	background-color: #69d2e7;
+	border-radius: 5px;
+	color: #fff;
+
+}
+
+.btn:hover{
+	background-color:   #a7dbd8;
+	cursor: pointer;
+
+}
+
+/*index user*/
+.desain h1 h4 {
+	color: 
+
+}
+
+/*footer*/
+.copy{
+	background-color: #e74c3c;
+	padding: 1% 0;
+}
+
+
+
+/*akhir index user*/
+
+/*footer*/
+
+.copyright{
+	background-color: #1abc9c;
+	padding: 1% 0;
+}
+
+.copyright p{
+	color: #fff;
+}
